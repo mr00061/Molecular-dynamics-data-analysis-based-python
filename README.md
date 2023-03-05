@@ -7,7 +7,7 @@
 $python3 datamanipulate.py pScopy_4.75_30.txt pS_s1_1-500_bb_shwpf_8.0.dat test.dat
 
 
-I am using python3 my script name datamanipulate.py I two as input  sys.argv[1]=pScopy_4.75_30.txt sys.argv[2]=pS_s1_1-500_bb_shwpf_8.0.dat sys.argv[3]=test.dat (output)
+I am using python3 my script name datamanipulate.py I set two as input  sys.argv[1]=pScopy_4.75_30.txt sys.argv[2]=pS_s1_1-500_bb_shwpf_8.0.dat sys.argv[3]=test.dat (output)
 
 
 
